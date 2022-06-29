@@ -1,2 +1,1 @@
-this is 0x00-shell_basics file
-pwd
+This script is printing the present location
